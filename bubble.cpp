@@ -1,4 +1,4 @@
-/* cathy was here*/
+
 #include <cstdlib>
 #include <iostream>
 #include <fstream>
